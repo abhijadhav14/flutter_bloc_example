@@ -11,6 +11,5 @@ This is a simple Flutter project demonstrating the use of the BLoC (Business Log
 
 - **main.dart**: The entry point of the application, sets up the BLoC and UI.
 
-## Running the Project
 
 
